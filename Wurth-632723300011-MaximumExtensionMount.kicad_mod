@@ -1,4 +1,5 @@
-(module Wurth-632723300011-MaximumExtensionMount (layer F.Cu) (tedit 5AD14D8B)
+(module Wurth-632723300011-MaximumExtensionMount (layer F.Cu) (tedit 5C42C6D3)
+  (attr smd)
   (fp_text reference REF** (at 0 -12) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

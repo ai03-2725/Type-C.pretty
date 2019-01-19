@@ -1,4 +1,5 @@
-(module HRO-TYPE-C-31-M-12-HandSoldering (layer F.Cu) (tedit 5ACED934)
+(module HRO-TYPE-C-31-M-12-HandSoldering (layer F.Cu) (tedit 5C42C6AC)
+  (attr smd)
   (fp_text reference REF** (at 0 -10.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

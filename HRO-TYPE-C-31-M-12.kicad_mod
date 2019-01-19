@@ -1,4 +1,5 @@
-(module HRO-TYPE-C-31-M-12 (layer F.Cu) (tedit 5ACED9B4)
+(module HRO-TYPE-C-31-M-12 (layer F.Cu) (tedit 5C42C658)
+  (attr smd)
   (fp_text reference REF** (at 0 -9.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
