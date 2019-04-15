@@ -20,3 +20,10 @@ Currently included connectors:
 - 1.6mm PCB compatibility
 - Half the cost of the Wurth connector
 - Requires reflow station or similar to solder full set of SMT pins below barrel
+
+[GCT USB4085-GF-A](https://www.digikey.com/product-detail/en/gct/USB4085-GF-A/2073-USB4085-GF-ACT-ND/9859733)
+
+- Only pins for USB 2.0
+- All pins are through hole and are hand solderable
+- Data pins barely break the surface of 1.6mm PCB
+- Half the cost of the Amphenol
